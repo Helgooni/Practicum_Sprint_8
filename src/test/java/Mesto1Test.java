@@ -6,7 +6,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import static io.restassured.RestAssured.given;
-
+//Испытание Allure в Jenkins
 public class Mesto1Test {
 
     String bearerToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2YTU2NWViNzU5M2Q5MTAwM2Q1MzQ5ZGYiLCJpYXQiOjE3ODY5NjA5NjMsImV4cCI6MTc4NzU2NTc2M30.8h_IT9vQ7vcbOeuNfI9tcdZny3K_TNRvWkXpxXd-mZs";
